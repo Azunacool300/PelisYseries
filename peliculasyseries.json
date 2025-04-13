@@ -1,17 +1,20 @@
 [
   {
-    "titulo": "Volver al futuro 1",
+    "title": "Volver al futuro 1",
+     "image": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/k3naCOK9ZQ5Mc7HhfHKN3zyray9.jpg",
     "url": "https://j6ohraxfzt1d.milocdn.com/hls2/01/00594/y2765u10xj6v_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=60jeWywai9Oa72I6QGuZRKR4ZwHU8aFgeyRlRidOcAk&s=1744571995&e=129600&f=2973177&srv=o5h0LGNZUCVjU&i=0.4&sp=500&p1=o5h0LGNZUCVjU&p2=o5h0LGNZUCVjU&asn=27947",
-    "imagen": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/k3naCOK9ZQ5Mc7HhfHKN3zyray9.jpg"
+   
   },
   {
-    "titulo": "Volver al futuro 2",
+    "title": "Volver al futuro 2",
+    "image": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/oTiQdzBOP5biNvzvrSPAvPxiSKH.jpg",
     "url": "https://wpvsahsvl0yo.acek-cdn.com/hls2/01/00593/z9yc21ss4ik7_,l,n,h,.urlset/index-f1-v1-a1.m3u8",
-    "imagen": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/oTiQdzBOP5biNvzvrSPAvPxiSKH.jpg"
+    
   },
   {
-    "titulo": "Volver al futuro 3",
+    "title": "Volver al futuro 3",
+     "image": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/c7vYpsBMKZ3AwhBlc7wwGGMPlRA.jpg",
     "url": "https://ogmmqkka4mkk.milocdn.com/hls2/01/00563/5j50fqhuc98h_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=WAbEg5CoR5qeOrJM71CiOmPOlG7b_R5qUdgAo2nwYvs&s=1744517689&e=129600&f=2815913&srv=hg248nabz3j6&i=0.4&sp=500&p1=hg248nabz3j6&p2=hg248nabz3j6&asn=27947",
-    "imagen": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/c7vYpsBMKZ3AwhBlc7wwGGMPlRA.jpg"
+   
   }
 ]
